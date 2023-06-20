@@ -1,4 +1,3 @@
-// Importing the required components
 import Board from '././components/Board';
 import Info from "././components/Info";
  
